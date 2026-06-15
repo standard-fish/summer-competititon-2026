@@ -1,6 +1,6 @@
 # Summer Rhombus picture competition 2026
 
-Competition: Make an image with the Rhombus this summer! Win stickers! 
+Competition: Make an image with [Rhombus](https://rhombus-lang.org/) this summer! Win stickers! 
 
 1. While the rules require the use of Rhombus, they do not exclude using Racket or Racket libraries with Rhombus or the Rhombus FFI
 
