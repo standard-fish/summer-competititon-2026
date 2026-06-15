@@ -14,6 +14,7 @@ Winners will be announced at the [(sixteenth RacketCon)](https://con.racket-lang
 ## Rules
 * Entries must use [Rhombus](https://rhombus-lang.org/)
 * Entries must be include all code amd instructions required to generate the picture.
+* Entries may be animated or interactive, but this is not required.
 * Entries must be licenced under the same terms as the Racket and Rhombus oprne source projects.
 * Incorporating fish into your emtry may earn bonus points.
 * Entries must be submitted via email to spdegabrielle+pict@gmail.com (you may attach or provide link to source code)
